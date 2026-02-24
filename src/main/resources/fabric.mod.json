@@ -1,13 +1,14 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
+  "name": "Saturn Client",
   "id": "meteor-client",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "Based utility mod. Modified by Bills310",
   "authors": [
     "MineGame159",
     "squidoodly",
-    "seasnail"
+    "seasnail",
+    "Bills310"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
@@ -27,21 +28,21 @@
     ]
   },
   "mixins": [
-    "meteor-client.mixins.json",
-    "meteor-client-baritone.mixins.json",
-    "meteor-client-indigo.mixins.json",
-    "meteor-client-sodium.mixins.json",
-    "meteor-client-lithium.mixins.json",
-    "meteor-client-viafabricplus.mixins.json"
+    "saturn-client.mixins.json",
+    "saturn-client-baritone.mixins.json",
+    "saturn-client-indigo.mixins.json",
+    "saturn-client-sodium.mixins.json",
+    "saturn-client-lithium.mixins.json",
+    "saturn-client-viafabricplus.mixins.json"
   ],
-  "accessWidener": "meteor-client.accesswidener",
+  "accessWidener": "saturn-client.accesswidener",
   "custom": {
     "meteor-client:build_number": "${build_number}",
     "meteor-client:color": "145,61,226",
     "meteor-client:commit": "${commit}",
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://meteorclient.com/discord"
+        "modmenu.discord": "https://discord.gg/uBnNVNvwh3"
       }
     },
     "badoptimizations:cache_hooks": {
