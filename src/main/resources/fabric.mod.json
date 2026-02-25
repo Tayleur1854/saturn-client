@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "name": "Saturn Client",
-  "id": "meteor-client",
+  "id": "saturn-client",
   "version": "${version}",
   "description": "Based utility mod. Modified by Bills310",
   "authors": [
@@ -11,20 +11,18 @@
     "Bills310"
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "homepage": "",
+    "sources": "https://github.com/Bills310/saturn-client"
   },
   "license": "GPL-3.0",
-  "icon": "assets/meteor-client/icon.png",
+  "icon": "assets/saturn-client/icon.png",
   "environment": "client",
   "entrypoints": {
     "client": [
-      "meteordevelopment.meteorclient.MeteorClient"
+      "saturndevelopment.saturnclient.SaturnClient"
     ],
     "modmenu": [
-      "meteordevelopment.meteorclient.modintegration.ModMenuIntegration"
+      "saturndevelopment.saturnclient.modintegration.ModMenuIntegration"
     ]
   },
   "mixins": [
@@ -37,16 +35,16 @@
   ],
   "accessWidener": "saturn-client.accesswidener",
   "custom": {
-    "meteor-client:build_number": "${build_number}",
-    "meteor-client:color": "145,61,226",
-    "meteor-client:commit": "${commit}",
+    "saturn-client:build_number": "${build_number}",
+    "saturn-client:color": "145,61,226",
+    "saturn-client:commit": "${commit}",
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://discord.gg/uBnNVNvwh3"
+        "modmenu.discord": ""
       }
     },
     "badoptimizations:cache_hooks": {
-      "lightmap": "meteordevelopment.meteorclient.modintegration.BadOptimizationsHook"
+      "lightmap": "saturndevelopment.saturnclient.modintegration.BadOptimizationsHook"
     }
   },
   "depends": {
