@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000835c71f8ad3768c5fcd44491&amp;cp=pri&amp;ma=90000&amp;ts=20509&amp;p=igh&amp;cid=1&amp;sig=07756a9edaebab5f61ac3cd5d3fcc6f54ae3221027191b3d509dc4d6ee8ea5c4" alt="saturn-client-logo" width="15%"/>
+<img src="https://prnt.sc/rNDYrq8_Tr3w" alt="saturn-client-logo" width="15%"/>
 </p>
 
 <h1 align="center">Saturn</h1>
