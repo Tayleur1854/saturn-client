@@ -11,7 +11,7 @@ import it.unimi.dsi.fastutil.objects.ObjectIntImmutablePair;
 import it.unimi.dsi.fastutil.objects.ObjectIntPair;
 import saturndevelopment.saturnclient.renderer.Renderer2D;
 import saturndevelopment.saturnclient.renderer.text.TextRenderer;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.config.Config;
 import saturndevelopment.saturnclient.systems.friends.Friends;

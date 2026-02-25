@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.systems.modules.combat;
 
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.pathing.PathManagers;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
 import saturndevelopment.saturnclient.systems.modules.Categories;

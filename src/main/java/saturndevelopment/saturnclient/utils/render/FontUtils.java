@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.utils.render;
 import it.unimi.dsi.fastutil.objects.ObjectOpenHashSet;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.renderer.Fonts;
-import meteordevelopment.meteorclient.renderer.text.*;
+import saturndevelopment.saturnclient.renderer.text.*;
 import saturndevelopment.saturnclient.renderer.text.*;
 import saturndevelopment.saturnclient.utils.files.ByteBufferUtils;
 import net.minecraft.util.Util;

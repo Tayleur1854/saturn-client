@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.systems.waypoints;
 
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.renderer.Renderer2D;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.misc.ISerializable;
 import saturndevelopment.saturnclient.utils.player.PlayerUtils;

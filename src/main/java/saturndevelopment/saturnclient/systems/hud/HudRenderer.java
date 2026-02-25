@@ -12,7 +12,7 @@ import it.unimi.dsi.fastutil.ints.Int2ObjectMap;
 import it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.events.meteor.CustomFontChangedEvent;
-import meteordevelopment.meteorclient.renderer.*;
+import saturndevelopment.saturnclient.renderer.*;
 import saturndevelopment.saturnclient.renderer.*;
 import saturndevelopment.saturnclient.renderer.text.CustomTextRenderer;
 import saturndevelopment.saturnclient.renderer.text.Font;

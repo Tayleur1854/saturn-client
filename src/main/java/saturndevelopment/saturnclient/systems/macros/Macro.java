@@ -6,7 +6,7 @@
 package saturndevelopment.saturnclient.systems.macros;
 
 import saturndevelopment.saturnclient.gui.utils.StarscriptTextBoxRenderer;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.misc.ISerializable;
 import saturndevelopment.saturnclient.utils.misc.Keybind;

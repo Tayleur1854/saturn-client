@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.modules.world;
 import it.unimi.dsi.fastutil.objects.Object2IntMap;
 import it.unimi.dsi.fastutil.objects.Object2IntOpenHashMap;
 import saturndevelopment.saturnclient.events.world.TickEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

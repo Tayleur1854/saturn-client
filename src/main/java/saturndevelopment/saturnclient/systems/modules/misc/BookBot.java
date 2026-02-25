@@ -13,7 +13,7 @@ import saturndevelopment.saturnclient.gui.widgets.WWidget;
 import saturndevelopment.saturnclient.gui.widgets.containers.WHorizontalList;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WButton;
 import saturndevelopment.saturnclient.mixin.TextHandlerAccessor;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

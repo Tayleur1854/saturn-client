@@ -5,8 +5,8 @@
 
 package saturndevelopment.saturnclient.systems.hud.elements;
 
-import meteordevelopment.meteorclient.settings.*;
-import meteordevelopment.meteorclient.systems.hud.*;
+import saturndevelopment.saturnclient.settings.*;
+import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.systems.modules.Module;

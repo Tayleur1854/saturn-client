@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.config;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.renderer.Fonts;
 import saturndevelopment.saturnclient.renderer.text.FontFace;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.System;
 import saturndevelopment.saturnclient.systems.Systems;

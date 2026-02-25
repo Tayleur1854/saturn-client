@@ -14,7 +14,7 @@ import saturndevelopment.saturnclient.mixin.EntityMixin;
 import saturndevelopment.saturnclient.mixin.PlayerMoveC2SPacketAccessor;
 import saturndevelopment.saturnclient.mixininterface.IVec3d;
 import saturndevelopment.saturnclient.pathing.PathManagers;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

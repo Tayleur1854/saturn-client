@@ -17,7 +17,7 @@ import java.util.List;
 import java.util.Set;
 
 public class MixinPlugin implements IMixinConfigPlugin {
-    private static final String mixinPackage = "meteordevelopment.meteorclient.mixin";
+    private static final String mixinPackage = "saturndevelopment.saturnclient.mixin";
 
     private static boolean loaded;
 

@@ -6,7 +6,7 @@
 package saturndevelopment.saturnclient.systems.proxies;
 
 import com.google.common.net.InetAddresses;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.Utils;
 import saturndevelopment.saturnclient.utils.misc.ISerializable;

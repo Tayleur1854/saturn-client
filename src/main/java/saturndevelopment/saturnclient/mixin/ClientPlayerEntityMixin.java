@@ -15,7 +15,7 @@ import saturndevelopment.saturnclient.events.entity.DropItemsEvent;
 import saturndevelopment.saturnclient.events.entity.player.PlayerTickMovementEvent;
 import saturndevelopment.saturnclient.events.entity.player.SendMovementPacketsEvent;
 import saturndevelopment.saturnclient.systems.modules.Modules;
-import meteordevelopment.meteorclient.systems.modules.movement.*;
+import saturndevelopment.saturnclient.systems.modules.movement.*;
 import saturndevelopment.saturnclient.systems.modules.movement.*;
 import saturndevelopment.saturnclient.systems.modules.player.LiquidInteract;
 import saturndevelopment.saturnclient.systems.modules.player.NoMiningTrace;

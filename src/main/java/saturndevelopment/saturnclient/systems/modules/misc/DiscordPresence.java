@@ -17,7 +17,7 @@ import saturndevelopment.saturnclient.gui.WidgetScreen;
 import saturndevelopment.saturnclient.gui.utils.StarscriptTextBoxRenderer;
 import saturndevelopment.saturnclient.gui.widgets.WWidget;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WButton;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

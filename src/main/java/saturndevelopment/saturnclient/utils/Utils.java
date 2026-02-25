@@ -12,7 +12,7 @@ import it.unimi.dsi.fastutil.objects.*;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.gui.tabs.TabScreen;
-import meteordevelopment.meteorclient.mixin.*;
+import saturndevelopment.saturnclient.mixin.*;
 import saturndevelopment.saturnclient.mixin.*;
 import saturndevelopment.saturnclient.mixininterface.IMinecraftClient;
 import saturndevelopment.saturnclient.settings.StatusEffectAmplifierMapSetting;

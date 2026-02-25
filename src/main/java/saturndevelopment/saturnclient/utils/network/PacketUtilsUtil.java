@@ -47,7 +47,7 @@ public class PacketUtilsUtil {
             writer.write(" * Copyright (c) Meteor Development.\n");
             writer.write(" */\n\n");
 
-            writer.write("package meteordevelopment.meteorclient.utils.network;\n\n");
+            writer.write("package saturndevelopment.saturnclient.utils.network;\n\n");
 
             //   Write imports
             writer.write("import com.google.common.collect.Sets;\n");

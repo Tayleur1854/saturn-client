@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.pathing;
 
 import baritone.api.BaritoneAPI;
 import baritone.api.utils.SettingsUtil;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.render.color.SettingColor;
 import net.minecraft.block.Block;

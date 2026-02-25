@@ -12,7 +12,7 @@ import baritone.api.pathing.goals.GoalBlock;
 import baritone.api.process.ICustomGoalProcess;
 import baritone.api.process.IMineProcess;
 import saturndevelopment.saturnclient.events.world.TickEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

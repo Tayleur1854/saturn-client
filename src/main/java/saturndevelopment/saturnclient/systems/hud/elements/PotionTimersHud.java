@@ -7,8 +7,8 @@ package saturndevelopment.saturnclient.systems.hud.elements;
 
 import it.unimi.dsi.fastutil.Pair;
 import it.unimi.dsi.fastutil.objects.ObjectObjectImmutablePair;
-import meteordevelopment.meteorclient.settings.*;
-import meteordevelopment.meteorclient.systems.hud.*;
+import saturndevelopment.saturnclient.settings.*;
+import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.utils.misc.Names;

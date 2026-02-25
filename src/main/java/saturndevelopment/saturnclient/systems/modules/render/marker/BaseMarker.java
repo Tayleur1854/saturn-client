@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.gui.GuiTheme;
 import saturndevelopment.saturnclient.gui.screens.MarkerScreen;
 import saturndevelopment.saturnclient.gui.widgets.WWidget;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.misc.ISerializable;
 import saturndevelopment.saturnclient.utils.player.PlayerUtils;

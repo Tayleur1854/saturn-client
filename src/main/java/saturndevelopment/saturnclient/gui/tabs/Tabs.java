@@ -6,7 +6,7 @@
 package saturndevelopment.saturnclient.gui.tabs;
 
 import it.unimi.dsi.fastutil.objects.Reference2ReferenceOpenHashMap;
-import meteordevelopment.meteorclient.gui.tabs.builtin.*;
+import saturndevelopment.saturnclient.gui.tabs.builtin.*;
 import saturndevelopment.saturnclient.gui.tabs.builtin.*;
 import saturndevelopment.saturnclient.pathing.PathManagers;
 import saturndevelopment.saturnclient.utils.PreInit;

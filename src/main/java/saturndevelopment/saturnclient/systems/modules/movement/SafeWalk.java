@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.modules.movement;
 import saturndevelopment.saturnclient.events.entity.player.ClipAtLedgeEvent;
 import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

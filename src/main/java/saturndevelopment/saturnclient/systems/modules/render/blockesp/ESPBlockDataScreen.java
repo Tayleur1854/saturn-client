@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.modules.render.blockesp;
 import saturndevelopment.saturnclient.gui.GuiTheme;
 import saturndevelopment.saturnclient.gui.WindowScreen;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.render.color.SettingColor;
 import net.minecraft.block.Block;

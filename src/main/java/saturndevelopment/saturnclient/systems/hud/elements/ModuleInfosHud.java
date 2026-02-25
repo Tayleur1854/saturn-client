@@ -5,13 +5,13 @@
 
 package saturndevelopment.saturnclient.systems.hud.elements;
 
-import meteordevelopment.meteorclient.settings.*;
-import meteordevelopment.meteorclient.systems.hud.*;
+import saturndevelopment.saturnclient.settings.*;
+import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.systems.modules.Module;
 import saturndevelopment.saturnclient.systems.modules.Modules;
-import meteordevelopment.meteorclient.systems.modules.combat.*;
+import saturndevelopment.saturnclient.systems.modules.combat.*;
 import saturndevelopment.saturnclient.systems.modules.combat.*;
 import saturndevelopment.saturnclient.utils.render.color.SettingColor;
 

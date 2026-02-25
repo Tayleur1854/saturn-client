@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.utils.entity;
 import it.unimi.dsi.fastutil.longs.Long2ObjectMap;
 import it.unimi.dsi.fastutil.longs.LongBidirectionalIterator;
 import it.unimi.dsi.fastutil.longs.LongSortedSet;
-import meteordevelopment.meteorclient.mixin.*;
+import saturndevelopment.saturnclient.mixin.*;
 import saturndevelopment.saturnclient.mixin.*;
 import saturndevelopment.saturnclient.utils.player.PlayerUtils;
 import saturndevelopment.saturnclient.utils.render.color.Color;

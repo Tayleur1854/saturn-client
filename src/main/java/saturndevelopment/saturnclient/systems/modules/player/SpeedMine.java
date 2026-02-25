@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.modules.player;
 import saturndevelopment.saturnclient.events.packets.PacketEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.mixin.ClientPlayerInteractionManagerAccessor;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

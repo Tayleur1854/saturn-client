@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.systems.modules.render.marker;
 
 import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.utils.render.color.SettingColor;
 import net.minecraft.util.math.BlockPos;

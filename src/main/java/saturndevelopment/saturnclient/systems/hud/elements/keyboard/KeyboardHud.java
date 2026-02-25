@@ -19,7 +19,7 @@ import saturndevelopment.saturnclient.gui.widgets.containers.WTable;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WButton;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WMinus;
 import saturndevelopment.saturnclient.mixin.KeyBindingAccessor;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.hud.Hud;
 import saturndevelopment.saturnclient.systems.hud.HudElement;

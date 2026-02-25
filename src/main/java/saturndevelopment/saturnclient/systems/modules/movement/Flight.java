@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.packets.PacketEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.mixin.ClientPlayerEntityAccessor;
 import saturndevelopment.saturnclient.mixin.PlayerMoveC2SPacketAccessor;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

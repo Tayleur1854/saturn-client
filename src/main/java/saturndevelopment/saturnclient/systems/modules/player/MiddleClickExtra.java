@@ -10,7 +10,7 @@ import saturndevelopment.saturnclient.events.entity.player.StoppedUsingItemEvent
 import saturndevelopment.saturnclient.events.meteor.MouseClickEvent;
 import saturndevelopment.saturnclient.events.packets.PacketEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friend;
 import saturndevelopment.saturnclient.systems.friends.Friends;

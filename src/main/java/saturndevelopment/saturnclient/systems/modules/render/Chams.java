@@ -6,7 +6,7 @@
 package saturndevelopment.saturnclient.systems.modules.render;
 
 import saturndevelopment.saturnclient.SaturnClient;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

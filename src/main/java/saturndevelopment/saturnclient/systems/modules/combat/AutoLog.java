@@ -10,7 +10,7 @@ import it.unimi.dsi.fastutil.objects.Object2IntOpenHashMap;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.events.packets.PacketEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
 import saturndevelopment.saturnclient.systems.modules.Categories;

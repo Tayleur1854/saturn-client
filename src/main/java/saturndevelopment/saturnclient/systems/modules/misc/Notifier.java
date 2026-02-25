@@ -13,7 +13,7 @@ import saturndevelopment.saturnclient.events.game.GameJoinedEvent;
 import saturndevelopment.saturnclient.events.game.GameLeftEvent;
 import saturndevelopment.saturnclient.events.packets.PacketEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
 import saturndevelopment.saturnclient.systems.modules.Categories;

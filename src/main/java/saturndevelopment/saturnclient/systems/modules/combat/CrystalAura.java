@@ -18,7 +18,7 @@ import saturndevelopment.saturnclient.mixininterface.IRaycastContext;
 import saturndevelopment.saturnclient.mixininterface.IVec3d;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
 import saturndevelopment.saturnclient.renderer.text.TextRenderer;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
 import saturndevelopment.saturnclient.systems.modules.Categories;

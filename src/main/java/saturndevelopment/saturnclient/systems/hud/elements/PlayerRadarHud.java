@@ -5,10 +5,10 @@
 
 package saturndevelopment.saturnclient.systems.hud.elements;
 
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
-import meteordevelopment.meteorclient.systems.hud.*;
+import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.systems.hud.*;
 import saturndevelopment.saturnclient.utils.player.PlayerUtils;
 import saturndevelopment.saturnclient.utils.render.color.Color;

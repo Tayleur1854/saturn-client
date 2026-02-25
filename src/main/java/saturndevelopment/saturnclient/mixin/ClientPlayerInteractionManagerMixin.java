@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.mixin;
 import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.events.entity.DropItemsEvent;
-import meteordevelopment.meteorclient.events.entity.player.*;
+import saturndevelopment.saturnclient.events.entity.player.*;
 import saturndevelopment.saturnclient.events.entity.player.*;
 import saturndevelopment.saturnclient.mixininterface.IClientPlayerInteractionManager;
 import saturndevelopment.saturnclient.systems.modules.Modules;

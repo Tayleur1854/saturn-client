@@ -13,7 +13,7 @@ import saturndevelopment.saturnclient.events.world.BlockUpdateEvent;
 import saturndevelopment.saturnclient.events.world.ChunkDataEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

@@ -7,7 +7,7 @@ package saturndevelopment.saturnclient.systems.modules.render;
 
 import saturndevelopment.saturnclient.events.render.ArmRenderEvent;
 import saturndevelopment.saturnclient.events.render.HeldItemRendererEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

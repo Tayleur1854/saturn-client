@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.entity.player.AttackEntityEvent;
 import saturndevelopment.saturnclient.events.entity.player.InteractBlockEvent;
 import saturndevelopment.saturnclient.events.entity.player.InteractEntityEvent;
 import saturndevelopment.saturnclient.events.entity.player.StartBreakingBlockEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.friends.Friends;
 import saturndevelopment.saturnclient.systems.modules.Categories;

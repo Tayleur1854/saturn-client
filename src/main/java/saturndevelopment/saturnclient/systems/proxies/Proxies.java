@@ -5,7 +5,7 @@
 
 package saturndevelopment.saturnclient.systems.proxies;
 
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.System;
 import saturndevelopment.saturnclient.systems.Systems;

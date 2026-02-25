@@ -5,7 +5,7 @@
 
 package saturndevelopment.saturnclient.systems.modules.render;
 
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.config.Config;
 import saturndevelopment.saturnclient.systems.friends.Friend;

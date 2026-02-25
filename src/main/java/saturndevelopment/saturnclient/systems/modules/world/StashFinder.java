@@ -22,7 +22,7 @@ import saturndevelopment.saturnclient.gui.widgets.pressable.WButton;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WCheckbox;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WMinus;
 import saturndevelopment.saturnclient.pathing.PathManagers;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;
@@ -176,7 +176,7 @@ public class StashFinder extends Module {
     public List<Chunk> chunks = new ArrayList<>();
 
     public StashFinder() {
-        super(Categories.World, "stash-finder", "Searches loaded chunks for storage blocks. Saves to <your minecraft folder>/meteor-client");
+        super(Categories.World, "stash-finder", "Searches loaded chunks for storage blocks. Saves to <your minecraft folder>/saturn-client");
     }
 
     @Override

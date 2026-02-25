@@ -14,7 +14,7 @@ import saturndevelopment.saturnclient.events.entity.player.PlayerMoveEvent;
 import saturndevelopment.saturnclient.mixininterface.ICamera;
 import saturndevelopment.saturnclient.systems.modules.Modules;
 import saturndevelopment.saturnclient.systems.modules.combat.Hitboxes;
-import meteordevelopment.meteorclient.systems.modules.movement.*;
+import saturndevelopment.saturnclient.systems.modules.movement.*;
 import saturndevelopment.saturnclient.systems.modules.movement.*;
 import saturndevelopment.saturnclient.systems.modules.movement.elytrafly.ElytraFly;
 import saturndevelopment.saturnclient.systems.modules.render.ESP;

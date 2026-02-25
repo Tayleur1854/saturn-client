@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.systems.modules.misc;
 import it.unimi.dsi.fastutil.objects.Reference2IntOpenHashMap;
 import saturndevelopment.saturnclient.SaturnClient;
 import saturndevelopment.saturnclient.events.packets.PacketEvent;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;
@@ -90,7 +90,7 @@ public class PacketLogger extends Module {
 
     private final Setting<Boolean> logToFile = sgOutput.add(new BoolSetting.Builder()
         .name("log-to-file")
-        .description("Save packet logs to a file in the meteor-client folder.")
+        .description("Save packet logs to a file in the saturn-client folder.")
         .defaultValue(false)
         .build()
     );

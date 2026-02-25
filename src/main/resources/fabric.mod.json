@@ -4,12 +4,7 @@
   "id": "saturn-client",
   "version": "${version}",
   "description": "Based utility mod. Modified by Bills310",
-  "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail",
-    "Bills310"
-  ],
+  "authors": ["Bills310"],
   "contact": {
     "homepage": "",
     "sources": "https://github.com/Bills310/saturn-client"

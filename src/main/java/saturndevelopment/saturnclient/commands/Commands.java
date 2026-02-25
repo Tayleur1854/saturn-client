@@ -8,7 +8,7 @@ package saturndevelopment.saturnclient.commands;
 import com.mojang.brigadier.CommandDispatcher;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import saturndevelopment.saturnclient.SaturnClient;
-import meteordevelopment.meteorclient.commands.commands.*;
+import saturndevelopment.saturnclient.commands.commands.*;
 import saturndevelopment.saturnclient.commands.commands.*;
 import saturndevelopment.saturnclient.events.game.GameJoinedEvent;
 import saturndevelopment.saturnclient.pathing.PathManagers;

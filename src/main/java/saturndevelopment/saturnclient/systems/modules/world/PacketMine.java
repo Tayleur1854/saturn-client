@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.entity.player.StartBreakingBlockEve
 import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.events.world.TickEvent;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

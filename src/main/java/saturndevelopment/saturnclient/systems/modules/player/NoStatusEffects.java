@@ -5,7 +5,7 @@
 
 package saturndevelopment.saturnclient.systems.modules.player;
 
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.Setting;
 import saturndevelopment.saturnclient.settings.SettingGroup;
 import saturndevelopment.saturnclient.settings.StatusEffectListSetting;

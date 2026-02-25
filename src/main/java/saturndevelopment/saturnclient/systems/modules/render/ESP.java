@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.render.Render2DEvent;
 import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.renderer.Renderer2D;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.config.Config;
 import saturndevelopment.saturnclient.systems.friends.Friends;

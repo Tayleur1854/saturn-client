@@ -9,7 +9,7 @@ import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.mixin.ClientPlayerInteractionManagerAccessor;
 import saturndevelopment.saturnclient.mixin.WorldRendererAccessor;
 import saturndevelopment.saturnclient.renderer.ShapeMode;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

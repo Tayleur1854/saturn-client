@@ -18,7 +18,7 @@ import saturndevelopment.saturnclient.gui.widgets.pressable.WCheckbox;
 import saturndevelopment.saturnclient.gui.widgets.pressable.WConfirmedMinus;
 import saturndevelopment.saturnclient.pathing.PathManagers;
 import saturndevelopment.saturnclient.renderer.text.TextRenderer;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

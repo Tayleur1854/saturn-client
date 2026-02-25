@@ -10,7 +10,7 @@ import saturndevelopment.saturnclient.events.meteor.MouseClickEvent;
 import saturndevelopment.saturnclient.events.render.Render3DEvent;
 import saturndevelopment.saturnclient.gui.WidgetScreen;
 import saturndevelopment.saturnclient.mixin.CreativeInventoryScreenAccessor;
-import meteordevelopment.meteorclient.settings.*;
+import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.settings.*;
 import saturndevelopment.saturnclient.systems.modules.Categories;
 import saturndevelopment.saturnclient.systems.modules.Module;

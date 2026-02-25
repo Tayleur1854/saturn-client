@@ -1,8 +1,8 @@
 {
   "required": true,
-  "package": "meteordevelopment.meteorclient.mixin.baritone",
+  "package": "saturndevelopment.saturnclient.mixin.baritone",
   "compatibilityLevel": "JAVA_21",
-  "plugin": "meteordevelopment.meteorclient.MixinPlugin",
+  "plugin": "saturndevelopment.saturnclient.MixinPlugin",
   "client": [
     "ComeCommandMixin"
   ],
