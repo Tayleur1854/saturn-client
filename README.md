@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://i.ibb.co/5XHVpw34/saturn-client.png" alt="saturn-client-logo" width="15%"/>
+<a href="https://ibb.co/Y4sGnwSQ"><img src="https://i.ibb.co/ZRDC47rX/saturn-client.png" alt="saturn-client" border="0" /></a>
 </p>
 
 <h1 align="center">Saturn</h1>
