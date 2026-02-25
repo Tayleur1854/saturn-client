@@ -1,5 +1,5 @@
 /*
- * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/meteor-client).
+ * This file is part of the Saturn Client distribution (https://github.com/MeteorDevelopment/meteor-client).
  * Copyright (c) Meteor Development.
  */
 
@@ -20,8 +20,8 @@ public class Main {
 
         int option = JOptionPane.showOptionDialog(
             null,
-            "To install Meteor Client you need to put it in your mods folder and run Fabric for latest Minecraft version.",
-            "Meteor Client",
+            "To install Saturn Client you need to put it in your mods folder and run Fabric for latest Minecraft version.",
+            "Saturn Client",
             JOptionPane.YES_NO_OPTION,
             JOptionPane.ERROR_MESSAGE,
             null,

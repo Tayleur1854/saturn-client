@@ -1,5 +1,5 @@
 /*
- * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/meteor-client).
+ * This file is part of the Saturn Client distribution (https://github.com/MeteorDevelopment/meteor-client).
  * Copyright (c) Meteor Development.
  */
 
@@ -40,7 +40,7 @@ function sendDiscordWebhook() {
                 avatar_url: "https://meteorclient.com/icon.png",
                 embeds: [
                     {
-                        title: "Meteor Client " + mcVersion + " build #" + buildNumber,
+                        title: "Saturn Client " + mcVersion + " build #" + buildNumber,
                         description: description,
                         url: "https://meteorclient.com",
                             color: success ? 2672680 : 13117480

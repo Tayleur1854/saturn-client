@@ -1,5 +1,5 @@
 /*
- * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/meteor-client).
+ * This file is part of the Saturn Client distribution (https://github.com/MeteorDevelopment/meteor-client).
  * Copyright (c) Meteor Development.
  */
 
@@ -218,7 +218,7 @@ public class BaritonePathManager implements IPathManager {
 
         @Override
         public String displayName0() {
-            return "Meteor Client";
+            return "Saturn Client";
         }
     }
 }

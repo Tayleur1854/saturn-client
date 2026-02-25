@@ -1,5 +1,5 @@
 /*
- * This file is part of the Meteor Client distribution (https://github.com/MeteorDevelopment/meteor-client).
+ * This file is part of the Saturn Client distribution (https://github.com/MeteorDevelopment/meteor-client).
  * Copyright (c) Meteor Development.
  */
 
@@ -24,7 +24,7 @@ import java.util.List;
 public abstract class CrashReportMixin {
     @Inject(method = "addDetails", at = @At("TAIL"))
     private void onAddDetails(StringBuilder sb, CallbackInfo info) {
-        sb.append("\n\n-- Meteor Client --\n\n");
+        sb.append("\n\n-- Saturn Client --\n\n");
         sb.append("Version: ").append(SaturnClient.VERSION).append("\n");
         if (!SaturnClient.BUILD_NUMBER.isEmpty()) {
             sb.append("Build: ").append(SaturnClient.BUILD_NUMBER).append("\n");
