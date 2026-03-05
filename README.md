@@ -4,9 +4,9 @@
 <h1 align="center">Saturn Client</h1>
 <p align="center">A Fabric Utility Mod for Minecraft 1.21.11, forked from Meteor Client. Modified by Bills310.</p>
 <div align="center">
-    <img src="https://img.shields.io/github/last-commit/Bills310/saturn-client" alt="GitHub last commit"/>
-    <img src="https://img.shields.io/github/commit-activity/w/Bills310/saturn-client" alt="GitHub commit activity"/>
-    <img src="https://img.shields.io/github/contributors/Bills310/saturn-client" alt="GitHub contributors"/>
+    <img src="https://img.shields.io/github/last-commit/Tayleur1854/saturn-client" alt="GitHub last commit"/>
+    <img src="https://img.shields.io/github/commit-activity/w/Tayleur1854/saturn-client" alt="GitHub commit activity"/>
+    <img src="https://img.shields.io/github/contributors/Tayleur1854/saturn-client" alt="GitHub contributors"/>
     <br>
     <img src="https://img.shields.io/github/languages/code-size/Bills310/saturn-client" alt="GitHub code size in bytes"/>
 </div>
