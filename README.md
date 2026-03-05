@@ -46,7 +46,7 @@ Pull requests are welcome. Please make sure to:
 - Reference the [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html) if needed
 
 ## Bugs and Suggestions
-Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/Bills310/saturn-client/issues).  
+Bug reports and suggestions should be made in this repo's [issue tracker](https://github.com/Tayleur1854/saturn-client/issues).  
 Please provide as much information as possible including your Minecraft version, Fabric version, and steps to reproduce the issue.
 
 ## Credits
