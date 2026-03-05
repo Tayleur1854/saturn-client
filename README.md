@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/github/commit-activity/w/Tayleur1854/saturn-client" alt="GitHub commit activity"/>
     <img src="https://img.shields.io/github/contributors/Tayleur1854/saturn-client" alt="GitHub contributors"/>
     <br>
-    <img src="https://img.shields.io/github/languages/code-size/Bills310/saturn-client" alt="GitHub code size in bytes"/>
+    <img src="https://img.shields.io/github/languages/code-size/Tayleur1854/saturn-client" alt="GitHub code size in bytes"/>
 </div>
 
 ## About
